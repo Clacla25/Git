@@ -1,0 +1,34 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #8b5f5f
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #FFF2BF;
+  box-shadow:
+    0 0 0 2em #181818,
+    0 0 0 4em #181818;
+  margin: 4em;
+  padding: 1em;
+font:
+  1.2rem "Fira Sans",
+  sans-serif;
+
+}
+
+p{
+    text-align: justify;
+}
+
+figure {
+    text-align: center;
+}
+
+img{border: solid;}
